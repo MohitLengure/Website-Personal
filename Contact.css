@@ -1,0 +1,232 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+	position: relative;
+	z-index: 5;
+	padding: 1.5rem 0rem;
+
+}
+
+.navbar li {
+	display: inline-block;
+	margin: 0.6rem 0rem 1rem 4rem;
+	list-style: none;
+}
+
+.navbar ul li a {
+	padding: 1rem 2rem;
+	border-radius: 2.5rem;
+	text-decoration: none;
+	text-align: center;
+	cursor: pointer;
+	color: black;
+	font-weight: bold;
+	font-family: serif;
+
+}
+
+.Con {
+	position: relative;
+	left: 37rem;
+	background-color: #e1e1e1;
+	margin: 0rem 0rem 0rem 4rem;
+}
+
+.contact {
+	background-color: #54389e;
+	width: 23%;
+	height: 90%;
+}
+
+.contact h2 {
+	font-weight: bold;
+	position: absolute;
+	left: 2rem;
+	color: #ebe1f8;
+}
+
+.contact h5 {
+	position: absolute;
+	left: 2rem;
+	top: 9rem;
+	color: #ebe1f8;
+}
+
+.Gmail img {
+	width: 2%;
+	height: auto;
+	position: absolute;
+	top: 13rem;
+	left: 2rem;
+}
+
+.Gmail h3 {
+	position: absolute;
+	top: 13rem;
+	left: 6rem;
+	text-decoration: none;
+	color: #ebe1f8;
+}
+
+.Gmail h6 {
+	text-decoration: none;
+	color: #ebe1f8;
+	position: absolute;
+	top: 15rem;
+	left: 6rem;
+}
+
+.Gmail h4 {
+	position: absolute;
+	top: 16.5rem;
+	left: 6rem;
+	text-decoration: none;
+	color: #ebe1f8;
+}
+
+
+.Location img {
+	width: 2%;
+	height: auto;
+	position: absolute;
+	top: 20rem;
+	left: 2rem;
+}
+
+.Location h3 {
+	position: absolute;
+	top: 20rem;
+	left: 6rem;
+	text-decoration: none;
+	color: #ebe1f8;
+}
+
+.Location h6 {
+	text-decoration: none;
+	color: #ebe1f8;
+	position: absolute;
+	top: 22rem;
+	left: 6rem;
+}
+
+.Location h5 {
+	position: absolute;
+	top: 23.5rem;
+	left: 6rem;
+	text-decoration: none;
+	color: #ebe1f8;
+}
+
+
+.Phone img {
+	width: 2%;
+	height: auto;
+	position: absolute;
+	top: 28rem;
+	left: 2rem;
+}
+
+.Phone h3 {
+	position: absolute;
+	top: 28rem;
+	left: 6rem;
+	text-decoration: none;
+	color: #ebe1f8;
+}
+
+.Phone h6 {
+	text-decoration: none;
+	color: #ebe1f8;
+	position: absolute;
+	top: 29.5rem;
+	left: 6rem;
+}
+
+.Phone h5 {
+	position: absolute;
+	top: 31rem;
+	left: 6rem;
+	text-decoration: none;
+	color: #ebe1f8;
+}
+
+.down {
+	top: 34rem;
+	position: absolute;
+}
+
+.Fac {
+	position: absolute;
+	left: 1.5rem;
+	top: 9rem;
+}
+
+.Fac img {
+	width: 1.5rem;
+}
+
+.twit {
+	position: absolute;
+	left: 5rem;
+	top: 9rem;
+}
+
+.twit img {
+	width: 1.5rem;
+}
+
+.Yout {
+	position: absolute;
+	left: 8.5rem;
+	top: 9rem;
+}
+
+.Yout img {
+	width: 1.5rem;
+}
+.Linkdin {
+	position: absolute;
+	left: 12rem;
+	top: 9rem;
+}
+
+.Linkdin img {
+	width: 1.5rem;
+}
+.GitHub {
+	position: absolute;
+	left: 15.5rem;
+	top: 9rem;
+}
+
+.GitHub img {
+	width: 1.5rem;
+}
+.Whatsapp {
+	position: absolute;
+	left: 19rem;
+	top: 9rem;
+}
+
+.Whatsapp img {
+	width: 1.5rem;
+}
+
+.ContactForm{
+	position: absolute;
+	left: 44rem;
+	top: 6rem;
+}
+.ContactForm h5{
+	color: #777d8c;
+	font-weight: none;
+	font-family: 'Times New Roman';
+}
+/* .ContactForm h3{
+	color: #777d8c;
+	font-weight: none;
+	font-family: 'Times New Roman';
+} */
